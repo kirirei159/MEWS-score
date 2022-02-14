@@ -1,6 +1,6 @@
 # MEWS-score
 
-Consuling project
+Consuling project (節錄部分資訊，完整報告於PDF)
 
 ## introduction
 1.針對發生非預期事件的病人，了解他們在發生非預期事件前生命徵象的變化情形，試圖找出病人病況變差的判斷依據。
